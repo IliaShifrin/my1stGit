@@ -1,2 +1,3 @@
 # my1stGit
-This is me learning how to git
+Oh, you touch my tralala.
+Hmmmm, My ding-ding-dong.
